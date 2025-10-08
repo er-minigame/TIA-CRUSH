@@ -41,6 +41,7 @@ canvas {
   transform: translate(-50%, -50%);
   background: url('../img/loading_screen.jpg') no-repeat center;
   background-size: auto 100%;
+  display: none;
 }
 
 #unity-loading-bar {
